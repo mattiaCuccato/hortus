@@ -1,6 +1,14 @@
-# FrontEnd
+# Hortus [front-end]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+
+## Install Angular CLI
+
+Run `npm install -g @angular/cli` for the global installation of Angular.
+
+## Update packages
+
+Run `npm install` to update Angular application packages.
 
 ## Development server
 
